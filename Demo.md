@@ -8,4 +8,4 @@ And this is third, from the master. The testament has changed. The testament has
 And a final fourth line, a special change for conflict.
 
 And a final fourth line!! This is it.
-The toothbrush can speak seven different languages.
+The toothbrush can speak seven different languages. I mean it.
