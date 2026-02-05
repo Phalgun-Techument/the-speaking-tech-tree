@@ -6,4 +6,4 @@ adults, or pets.
 
 Added wildlife. This is it.
 Turn on the toothbrush using the green button. Place in your mouth.
-
+Added a last line at the end.
